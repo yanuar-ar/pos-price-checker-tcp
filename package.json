@@ -1,0 +1,14 @@
+{
+  "dependencies": {
+    "csv-parse": "4.4.5",
+    "figlet": "^1.2.4",
+    "lodash": "4.17.15",
+    "net": "1.0.2",
+    "node-watch": "^0.6.3"
+  },
+  "pkg": {
+    "assets": [
+      "./node_modules/figlet/fonts/Standard.flf"
+    ]
+  }
+}
